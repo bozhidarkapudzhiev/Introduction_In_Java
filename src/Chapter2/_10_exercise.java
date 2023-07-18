@@ -6,7 +6,7 @@ public class _10_exercise {
         int secondValue;
         int thridValue;
         secondValue=firstValue;
-        thridValue=firstValue+3;
+        thridValue=firstValue=3;
         System.out.println(firstValue);
         System.out.println(secondValue);
         System.out.println(thridValue);
