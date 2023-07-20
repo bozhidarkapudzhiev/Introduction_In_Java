@@ -1,4 +1,4 @@
-package Chapther3;
+package Chapther3.Exercise;
 
 public class _1_exercise {
     public static void main(String[] args) {
